@@ -1,0 +1,20 @@
+{"id": "1-correct", "question": "¿Cuál es la capital de Francia?", "answer": "La capital de Francia es París."}
+{"id": "2-correct", "question": "¿En qué año llegó el hombre a la Luna por primera vez?", "answer": "La primera llegada del hombre a la Luna fue en 1969, con la misión Apolo 11."}
+{"id": "3-correct", "question": "¿Qué órgano del cuerpo humano se encarga de bombear la sangre?", "answer": "El corazón es el órgano que bombea la sangre a través del sistema circulatorio."}
+{"id": "4-correct", "question": "¿Cuál es la moneda oficial de Japón?", "answer": "La moneda oficial de Japón es el yen (¥)."}
+{"id": "5-correct", "question": "¿Qué significa CPU en informática?", "answer": "CPU significa Unidad Central de Procesamiento, es el procesador principal de un sistema."}
+{"id": "6-correct", "question": "¿Cuál es la capital de Francia?", "answer": "París."}
+{"id": "7-correct", "question": "¿En qué año fue la independencia de Argentina?", "answer": "En 1816."}
+{"id": "8-correct", "question": "¿Qué fórmula química representa al agua?", "answer": "H2O."}
+{"id": "9-correct", "question": "¿Qué órgano bombea la sangre?", "answer": "El corazón."}
+{"id": "10-correct", "question": "¿Cuál es la moneda de Japón?", "answer": "El yen."}
+{"id": "11-incorrect", "question": "¿Cuál es la capital de Argentina?", "answer": "El fútbol es el deporte más popular en ese país."}
+{"id": "12-incorrect", "question": "¿Qué planeta es conocido como el planeta rojo?", "answer": "La respuesta depende de la interpretación cultural."}
+{"id": "13-incorrect", "question": "¿En qué continente se encuentra Egipto?", "answer": "Egipto es un idioma que se estudia en la universidad."}
+{"id": "14-incorrect", "question": "¿Cuál es la fórmula química del agua?", "answer": "El agua es muy importante para la vida, pero no se puede describir con números."}
+{"id": "15-incorrect", "question": "¿Qué lenguaje de programación se usa para el desarrollo de Android?", "answer": "El desarrollo de Android comenzó en el año 2008 con la aparición del primer smartphone."}
+{"id": "16-incorrect", "question": "¿Cuál es la capital de Francia?", "answer": "El océano Pacífico es el más grande del mundo."}
+{"id": "17-incorrect", "question": "¿En qué año fue la independencia de Argentina?", "answer": "La fotosíntesis ocurre en los cloroplastos."}
+{"id": "18-incorrect", "question": "¿Qué fórmula química representa al agua?", "answer": "La capital de Perú es Lima."}
+{"id": "19-incorrect", "question": "¿Qué órgano bombea la sangre?", "answer": "El número pi es aproximadamente 3.14159."}
+{"id": "20-incorrect", "question": "¿Cuál es la moneda de Japón?", "answer": "El Wi-Fi utiliza el estándar IEEE 802.11."}
